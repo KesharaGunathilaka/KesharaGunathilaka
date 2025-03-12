@@ -1,6 +1,6 @@
 # I'm Keshara Gunathilaka 👋
 
-# 💫 About Me:
+## 💫 About Me:
 Computer Engineering undergraduate at the Faculty of Engineering, University of Ruhuna, Sri Lanka.
 
 
