@@ -95,22 +95,13 @@ I am a Computer Engineering fresh graduate from the Faculty of Engineering, Univ
 ## 📊 GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats-dark.svg">
-    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats.svg" alt="GitHub statistics">
-  </picture>
+  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats.svg" alt="GitHub statistics">
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs-dark.svg">
-    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs.svg" alt="Most used languages">
-  </picture>
+  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs.svg" alt="Most used languages">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/snake.svg" alt="Contribution graph animation" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/snake.svg" alt="Contribution graph animation" width="100%">
 </p>
 
 <p align="center">

@@ -1,19 +1,19 @@
 
       <svg
         width="375.7666668891907"
-        height="170"
-        viewBox="0 0 375.7666668891907 170"
+        height="165"
+        viewBox="0 0 375.7666668891907 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Keshara Gunathilaka&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 646, Total PRs: 111, Total PRs Merged: 104, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Commits  : 647, Total PRs: 111, Total PRs Merged: 104, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #0969da;
+            fill: #67e8f9;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #1f2328;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e2e8f0;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1f2328;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e2e8f0;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #0969da;
+      fill: #a78bfa;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #0969da;
+      stroke: #67e8f9;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #0969da;
+      stroke: #67e8f9;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 149.6002054330287;
+        stroke-dashoffset: 149.58165738606564;
       }
     }
   
@@ -99,12 +99,19 @@
         }
       }
     
-          
+          * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
         
         <defs>
           
+          <linearGradient
+            id="gradient"
+            gradientTransform="rotate(135)"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop offset="0%" stop-color="#0b1020" />,<stop offset="50%" stop-color="#0f1a38" />,<stop offset="100%" stop-color="#0a2b36" />
+          </linearGradient>
           
         </defs>
         
@@ -114,12 +121,12 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="12"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#334155"
           width="374.7666668891907"
-          fill="#00000000"
-          stroke-opacity="0"
+          fill="url(#gradient)"
+          stroke-opacity="1"
         />
 
         
@@ -158,9 +165,9 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >646</text>
+      >647</text>
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 24)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -175,7 +182,7 @@
         data-testid="prs"
       >111</text>
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 48)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -190,7 +197,7 @@
         data-testid="prs_merged"
       >104</text>
     </g>
-  </g><g transform="translate(0, 75)">
+  </g><g transform="translate(0, 72)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">

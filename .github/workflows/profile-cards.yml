@@ -3,6 +3,11 @@ name: Update profile cards
 # Regenerates the images in profile/ (stats, top languages, contribution snake)
 # and commits them to this repository, so the README never depends on a
 # third-party image service being online.
+#
+# Each image is a single file that reads well on both light and dark GitHub
+# themes: the cards carry their own background, and the snake uses
+# semi-transparent colours. This avoids <picture> theme switching, which
+# follows the visitor's system setting rather than their GitHub theme.
 
 on:
   schedule:
@@ -21,10 +26,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  STATS: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide=stars,issues&show=prs_merged&include_all_commits=true&hide_border=true&bg_color=00000000
-  LANGS: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=plpgsql,cmake,css,html,shell,dockerfile,makefile&hide_border=true&bg_color=00000000
-  LIGHT: title_color=0969da&text_color=1f2328&icon_color=0969da
-  DARK: title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff
+  STATS: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide=stars,issues&show=prs_merged&include_all_commits=true&line_height=24
+  LANGS: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=plpgsql,cmake,css,html,shell,dockerfile,makefile
+  CARD: disable_animations=true&hide_border=false&border_color=334155&border_radius=12&bg_color=135,0b1020,0f1a38,0a2b36&title_color=67e8f9&text_color=e2e8f0&icon_color=a78bfa
 
 jobs:
   build:
@@ -32,39 +36,21 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Stats card (light)
+      - name: Stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: ${{ env.STATS }}&${{ env.LIGHT }}
+          options: ${{ env.STATS }}&${{ env.CARD }}
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: ${{ env.STATS }}&${{ env.DARK }}
-          path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Top languages card (light)
+      - name: Top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: ${{ env.LANGS }}&${{ env.LIGHT }}
+          options: ${{ env.LANGS }}&${{ env.CARD }}
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Top languages card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: ${{ env.LANGS }}&${{ env.DARK }}
-          path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
@@ -73,8 +59,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake.svg
-            profile/snake-dark.svg?palette=github-dark
+            profile/snake.svg?color_dots=#8b949e33,#2ea04366,#2ea04399,#2ea043cc,#2ea043
 
       - name: Commit updated cards
         run: |
