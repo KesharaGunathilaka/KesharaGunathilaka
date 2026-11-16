@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280" role="img" aria-labelledby="bt bd">
+<title id="bt">Keshara Gunathilaka</title>
+<desc id="bd">Computer Engineering fresh graduate from the University of Ruhuna. AI/ML Engineer, Data Scientist, Full-Stack Engineer, LLM Agents and RAG, Computer Vision.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#0f1a38"/><stop offset="1" stop-color="#0a2b36"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glowA"><stop offset="0" stop-color="#22d3ee" stop-opacity=".30"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".30"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+<clipPath id="frame"><rect width="960" height="280" rx="18"/></clipPath>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.kicker{font-size:14px;font-weight:600;letter-spacing:3px;fill:#67e8f9}
+.name{font-size:48px;font-weight:700;fill:#f8fafc}
+.prompt{font-size:24px;font-weight:700;fill:#22d3ee}
+.role{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;font-size:24px;font-weight:600;fill:#e2e8f0;opacity:0}
+.r1{opacity:1}
+.caption{font-size:15px;fill:#94a3b8}
+.edges path{stroke:#94a3b8;stroke-opacity:.16;stroke-width:1}
+.sig{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-dasharray:18 120;stroke-dashoffset:18;opacity:0}
+.halo{opacity:.14}
+@keyframes cycle{0%{opacity:0;transform:translateY(8px)}3.2%{opacity:1;transform:translateY(0)}16.8%{opacity:1;transform:translateY(0)}20%{opacity:0;transform:translateY(-8px)}100%{opacity:0;transform:translateY(-8px)}}
+@keyframes flow{0%{stroke-dashoffset:18;opacity:0}4%{opacity:1}24%{opacity:1}28%{stroke-dashoffset:-100;opacity:0}100%{stroke-dashoffset:-100;opacity:0}}
+@keyframes pulse{0%,100%{opacity:.10}50%{opacity:.34}}
+@keyframes driftA{0%,100%{transform:translate(0,0)}50%{transform:translate(-46px,26px)}}
+@keyframes driftB{0%,100%{transform:translate(0,0)}50%{transform:translate(52px,-22px)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.25}}
+@media (prefers-reduced-motion:no-preference){
+.role{animation:cycle 15s infinite}
+.r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}.r5{animation-delay:12s}
+.sig{animation:flow 4.6s linear infinite}
+.halo{animation:pulse 3s ease-in-out infinite}
+.ga{animation:driftA 14s ease-in-out infinite}
+.gb{animation:driftB 17s ease-in-out infinite}
+.prompt{animation:blink 1.2s steps(1) infinite}
+}
+</style>
+<g clip-path="url(#frame)">
+<rect width="960" height="280" fill="url(#bg)"/>
+<circle class="ga" cx="800" cy="40" r="240" fill="url(#glowA)"/>
+<circle class="gb" cx="150" cy="290" r="230" fill="url(#glowB)"/>
+<rect width="960" height="280" fill="url(#dots)"/>
+<g class="edges" fill="none"><path d="M676 98L758 56"/><path d="M676 98L758 98"/><path d="M676 98L758 140"/><path d="M676 98L758 182"/><path d="M676 98L758 224"/><path d="M676 140L758 56"/><path d="M676 140L758 98"/><path d="M676 140L758 140"/><path d="M676 140L758 182"/><path d="M676 140L758 224"/><path d="M676 182L758 56"/><path d="M676 182L758 98"/><path d="M676 182L758 140"/><path d="M676 182L758 182"/><path d="M676 182L758 224"/><path d="M758 56L840 77"/><path d="M758 56L840 119"/><path d="M758 56L840 161"/><path d="M758 56L840 203"/><path d="M758 98L840 77"/><path d="M758 98L840 119"/><path d="M758 98L840 161"/><path d="M758 98L840 203"/><path d="M758 140L840 77"/><path d="M758 140L840 119"/><path d="M758 140L840 161"/><path d="M758 140L840 203"/><path d="M758 182L840 77"/><path d="M758 182L840 119"/><path d="M758 182L840 161"/><path d="M758 182L840 203"/><path d="M758 224L840 77"/><path d="M758 224L840 119"/><path d="M758 224L840 161"/><path d="M758 224L840 203"/><path d="M840 77L908 119"/><path d="M840 77L908 161"/><path d="M840 119L908 119"/><path d="M840 119L908 161"/><path d="M840 161L908 119"/><path d="M840 161L908 161"/><path d="M840 203L908 119"/><path d="M840 203L908 161"/></g>
+<g><path class="sig" pathLength="100" style="animation-delay:0s" stroke="#38bdf8" d="M676 98L758 98"/><path class="sig" pathLength="100" style="animation-delay:0.25s" stroke="#38bdf8" d="M676 140L758 182"/><path class="sig" pathLength="100" style="animation-delay:0.5s" stroke="#38bdf8" d="M676 182L758 224"/><path class="sig" pathLength="100" style="animation-delay:0.7s" stroke="#38bdf8" d="M676 140L758 56"/><path class="sig" pathLength="100" style="animation-delay:1s" stroke="#818cf8" d="M758 98L840 77"/><path class="sig" pathLength="100" style="animation-delay:1.25s" stroke="#818cf8" d="M758 182L840 161"/><path class="sig" pathLength="100" style="animation-delay:1.5s" stroke="#818cf8" d="M758 224L840 203"/><path class="sig" pathLength="100" style="animation-delay:1.7s" stroke="#818cf8" d="M758 56L840 119"/><path class="sig" pathLength="100" style="animation-delay:2s" stroke="#a78bfa" d="M840 77L908 119"/><path class="sig" pathLength="100" style="animation-delay:2.25s" stroke="#a78bfa" d="M840 161L908 161"/><path class="sig" pathLength="100" style="animation-delay:2.5s" stroke="#a78bfa" d="M840 203L908 161"/><path class="sig" pathLength="100" style="animation-delay:2.7s" stroke="#a78bfa" d="M840 119L908 119"/></g>
+<g><circle class="halo" style="animation-delay:0.00s" cx="676" cy="98" r="13" fill="#22d3ee"/><circle cx="676" cy="98" r="6" fill="#0b1020" stroke="#22d3ee" stroke-width="2.2"/><circle cx="676" cy="98" r="2.2" fill="#22d3ee"/><circle class="halo" style="animation-delay:0.37s" cx="676" cy="140" r="13" fill="#22d3ee"/><circle cx="676" cy="140" r="6" fill="#0b1020" stroke="#22d3ee" stroke-width="2.2"/><circle cx="676" cy="140" r="2.2" fill="#22d3ee"/><circle class="halo" style="animation-delay:0.74s" cx="676" cy="182" r="13" fill="#22d3ee"/><circle cx="676" cy="182" r="6" fill="#0b1020" stroke="#22d3ee" stroke-width="2.2"/><circle cx="676" cy="182" r="2.2" fill="#22d3ee"/><circle class="halo" style="animation-delay:1.11s" cx="758" cy="56" r="13" fill="#38bdf8"/><circle cx="758" cy="56" r="6" fill="#0b1020" stroke="#38bdf8" stroke-width="2.2"/><circle cx="758" cy="56" r="2.2" fill="#38bdf8"/><circle class="halo" style="animation-delay:1.48s" cx="758" cy="98" r="13" fill="#38bdf8"/><circle cx="758" cy="98" r="6" fill="#0b1020" stroke="#38bdf8" stroke-width="2.2"/><circle cx="758" cy="98" r="2.2" fill="#38bdf8"/><circle class="halo" style="animation-delay:1.85s" cx="758" cy="140" r="13" fill="#38bdf8"/><circle cx="758" cy="140" r="6" fill="#0b1020" stroke="#38bdf8" stroke-width="2.2"/><circle cx="758" cy="140" r="2.2" fill="#38bdf8"/><circle class="halo" style="animation-delay:2.22s" cx="758" cy="182" r="13" fill="#38bdf8"/><circle cx="758" cy="182" r="6" fill="#0b1020" stroke="#38bdf8" stroke-width="2.2"/><circle cx="758" cy="182" r="2.2" fill="#38bdf8"/><circle class="halo" style="animation-delay:2.59s" cx="758" cy="224" r="13" fill="#38bdf8"/><circle cx="758" cy="224" r="6" fill="#0b1020" stroke="#38bdf8" stroke-width="2.2"/><circle cx="758" cy="224" r="2.2" fill="#38bdf8"/><circle class="halo" style="animation-delay:2.96s" cx="840" cy="77" r="13" fill="#818cf8"/><circle cx="840" cy="77" r="6" fill="#0b1020" stroke="#818cf8" stroke-width="2.2"/><circle cx="840" cy="77" r="2.2" fill="#818cf8"/><circle class="halo" style="animation-delay:0.33s" cx="840" cy="119" r="13" fill="#818cf8"/><circle cx="840" cy="119" r="6" fill="#0b1020" stroke="#818cf8" stroke-width="2.2"/><circle cx="840" cy="119" r="2.2" fill="#818cf8"/><circle class="halo" style="animation-delay:0.70s" cx="840" cy="161" r="13" fill="#818cf8"/><circle cx="840" cy="161" r="6" fill="#0b1020" stroke="#818cf8" stroke-width="2.2"/><circle cx="840" cy="161" r="2.2" fill="#818cf8"/><circle class="halo" style="animation-delay:1.07s" cx="840" cy="203" r="13" fill="#818cf8"/><circle cx="840" cy="203" r="6" fill="#0b1020" stroke="#818cf8" stroke-width="2.2"/><circle cx="840" cy="203" r="2.2" fill="#818cf8"/><circle class="halo" style="animation-delay:1.44s" cx="908" cy="119" r="13" fill="#a78bfa"/><circle cx="908" cy="119" r="6" fill="#0b1020" stroke="#a78bfa" stroke-width="2.2"/><circle cx="908" cy="119" r="2.2" fill="#a78bfa"/><circle class="halo" style="animation-delay:1.81s" cx="908" cy="161" r="13" fill="#a78bfa"/><circle cx="908" cy="161" r="6" fill="#0b1020" stroke="#a78bfa" stroke-width="2.2"/><circle cx="908" cy="161" r="2.2" fill="#a78bfa"/></g>
+<text class="mono kicker" x="64" y="78">HELLO, I'M</text>
+<text class="sans name" x="62" y="132">Keshara Gunathilaka</text>
+<rect x="64" y="150" width="64" height="4" rx="2" fill="url(#accent)"/>
+<text class="mono prompt" x="64" y="198">&gt;</text>
+<text class="role r1" x="92" y="198">AI/ML Engineer</text><text class="role r2" x="92" y="198">Data Scientist</text><text class="role r3" x="92" y="198">Full-Stack Engineer</text><text class="role r4" x="92" y="198">LLM Agents &amp; RAG</text><text class="role r5" x="92" y="198">Computer Vision</text>
+<text class="sans caption" x="64" y="236">Computer Engineering Fresh Graduate  ·  University of Ruhuna, Sri Lanka</text>
+</g>
+<rect x=".5" y=".5" width="959" height="279" rx="17.5" fill="none" stroke="#94a3b8" stroke-opacity=".22"/>
+</svg>

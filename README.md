@@ -1,20 +1,122 @@
-# I'm Keshara Gunathilaka 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/assets/banner.svg" alt="Keshara Gunathilaka · AI/ML Engineer · Data Scientist · Full-Stack Engineer · LLM Agents and RAG · Computer Vision" width="100%">
+</p>
 
-## 💫 About Me:
-Computer Engineering undergraduate at the Faculty of Engineering, University of Ruhuna, Sri Lanka.
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshara-gunathilaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gpkhgunathilaka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/KesharaGunathilaka/KesharaGunathilaka/raw/main/assets/Keshara_Gunathilaka_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-0F766E?style=for-the-badge" alt="Download CV"></a>
+  <img src="https://img.shields.io/badge/Sri%20Lanka-4B5563?style=for-the-badge" alt="Based in Sri Lanka">
+</p>
 
+## 👋 About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/keshara-gunathilaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gpkhgunathilaka@gmail.com) 
+I am a Computer Engineering fresh graduate from the Faculty of Engineering, University of Ruhuna, Sri Lanka. My main focus is AI/ML and data science, and I am also a full-stack engineer, so I take LLM agents, RAG systems, computer vision models and machine learning pipelines through to working products.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KesharaGunathilaka&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KesharaGunathilaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KesharaGunathilaka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+- 🎓 BSc Engineering (Hons) in Computer Engineering, University of Ruhuna (2022–2026)
+- 💼 AI/ML Engineer Intern at SLT-Mobitel (June – November 2025), where I built a [RAG chat assistant](https://github.com/KesharaGunathilaka/SLT_AI_Chatbot) for the SLT website on Llama 3.1 running locally through Ollama
+- 🧠 Working across LLM agents, RAG, computer vision, ML pipelines and full-stack web development
+- 🏆 Global Rank #49 at IEEEXtreme 19.0 and 2nd Runners-Up at AGENTRIX 2026
+- 🔭 Open to AI/ML, data science and full-stack engineering roles
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KesharaGunathilaka&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## 🛠️ Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | `Python` `C++` `C` `SQL` `JavaScript` `TypeScript` |
+| **AI and machine learning** | `PyTorch` `scikit-learn` <code>Hugging&nbsp;Face&nbsp;Transformers</code> `Sentence-Transformers` `YOLO` `OpenCV` `MediaPipe` `Pandas` `NumPy` `Matplotlib` |
+| **LLMs and agents** | `RAG` `LangGraph` `Ollama` `Groq` <code>Google&nbsp;Gemini</code> `MCP` `ChromaDB` <code>Milvus&nbsp;/&nbsp;Zilliz</code> |
+| **Data** | `PostgreSQL` `MySQL` `MongoDB` <code>Apache&nbsp;Spark</code> <code>Apache&nbsp;Airflow</code> <code>Apache&nbsp;Kafka</code> `MLflow` |
+| **Web** | `React` `Next.js` <code>Tailwind&nbsp;CSS</code> `Node.js` `Express` `NestJS` `FastAPI` `Flask` `GraphQL` |
+| **DevOps and tools** | `Docker` `Kubernetes` <code>GitHub&nbsp;Actions</code> <code>AWS&nbsp;EC2</code> `Git` `Linux` |
+
+## 🏆 Achievements
+
+| | Result | Event |
+| :-: | :-- | :-- |
+| 🌍 | **Global Rank #49** | IEEEXtreme 19.0, among 19,000+ participants worldwide |
+| 🥉 | **2nd Runners-Up** | AGENTRIX 2026 inter-university competition, with CommuteAI |
+| 🏁 | **Finalist** | Rootcode Tech-Triathlon 2026, with Waypoint |
+| 🏁 | **Finalist** | AI EXPO Codeblast |
+| 🏅 | **44th in Sri Lanka** | IEEEXtreme 18.0 |
+| 🎯 | **Top 10 of 200+** | ZuuCrew AI Academy, Building Production-Ready Machine Learning Systems |
+
+**Leadership:** Industry Engagement Committee Lead at the IEEE Student Branch, University of Ruhuna (2025/2026), and Executive Committee Member at SEDS Ruhuna, named Best Overall SEDS Chapter in Sri Lanka 2025.
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/KesharaGunathilaka/adaptive-multimodal-hri">Adaptive Multimodal Human–Robot Interaction</a></h3>
+      <p><b>🎓 Final-year project</b></p>
+      <p>Four perception models for scene context, emotion, gesture and motion feed a self-attention fusion layer that predicts intent in real time, running on an NVIDIA Jetson with an Intel RealSense depth camera.</p>
+      <p><code>PyTorch</code> <code>MediaPipe</code> <code>NVIDIA&nbsp;Jetson</code> <code>Intel&nbsp;RealSense</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 <a href="https://github.com/KesharaGunathilaka/commute_ai-agentrix">CommuteAI</a></h3>
+      <p><b>🥉 2nd Runners-Up, AGENTRIX 2026</b></p>
+      <p>A LangGraph agent that plans Sri Lankan bus and train journeys, detects live disruptions and replans automatically, in Sinhala, Tamil and English.</p>
+      <p><code>LangGraph</code> <code>Groq</code> <code>ChromaDB</code> <code>FastAPI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/KesharaGunathilaka/lumeo-movie-mcp-aai">Lumeo</a></h3>
+      <p><b>AI movie recommendation and insight platform</b></p>
+      <p>Two LangGraph agents pair SVD collaborative filtering with embeddings for personalised and mood-based recommendations, with fine-tuned DistilBERT sentiment and every capability exposed as MCP tools.</p>
+      <p><code>LangGraph</code> <code>Groq</code> <code>FastAPI</code> <code>Next.js</code> <code>MCP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📐 <a href="https://github.com/KesharaGunathilaka/architectural-floor-plan-digitization_ipcv">Floor Plan Digitization</a></h3>
+      <p><b>Computer vision · Team project</b></p>
+      <p>YOLOv11 extracts doors, windows, walls and fixtures from scanned floor plans, reaching mAP@50 of 0.838 on CubiCasa5k, and exports them as CAD-compatible DXF and JSON.</p>
+      <p><code>YOLO</code> <code>PyTorch</code> <code>OpenCV</code> <code>DXF</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 <a href="https://github.com/KesharaGunathilaka/AlphaZero_Waypoint">Waypoint</a></h3>
+      <p><b>🏁 Finalist, Rootcode Tech-Triathlon 2026</b> · <a href="https://alpha-zero-waypoint.vercel.app/">Live&nbsp;demo</a></p>
+      <p>Delivery planning for three retail brands across two depots: a rule-aware allocation engine, offline-ready loader and driver apps, live dispatch monitoring, and LightGBM demand and lateness models.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>LightGBM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📨 <a href="https://github.com/KesharaGunathilaka/kafka-order-stream-bigdata">Kafka Order Stream</a></h3>
+      <p><b>Streaming data pipeline</b></p>
+      <p>Avro-serialised order streaming with real-time price aggregation, retries with exponential backoff, and a dead letter queue for messages that cannot succeed.</p>
+      <p><code>Kafka</code> <code>Avro</code> <code>Python</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
+
+**More work:** [BookBuddies](https://github.com/KesharaGunathilaka/bookbuddies-cloud-k8s), FastAPI microservices on GKE with Terraform and GitHub Actions, and [Sayido.lk](https://github.com/KesharaGunathilaka/wedding-directory), a multi-vendor wedding planning platform built with Next.js, NestJS and GraphQL.
+
+## 📊 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats.svg" alt="GitHub statistics" height="165">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs-dark.svg">
+    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs.svg" alt="Most used languages" height="165">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/snake.svg" alt="Contribution graph animation" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KesharaGunathilaka&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" alt="Profile views">
+</p>
+
+<p align="center">
+  <b>Get in touch:</b> &nbsp;<a href="https://www.linkedin.com/in/keshara-gunathilaka">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:gpkhgunathilaka@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/KesharaGunathilaka/KesharaGunathilaka/raw/main/assets/Keshara_Gunathilaka_CV.pdf">CV</a>
+</p>
