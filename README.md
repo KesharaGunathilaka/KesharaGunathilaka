@@ -14,7 +14,7 @@
 I am a Computer Engineering fresh graduate from the Faculty of Engineering, University of Ruhuna, Sri Lanka. My main focus is AI/ML and data science, and I am also a full-stack engineer, so I take LLM agents, RAG systems, computer vision models and machine learning pipelines through to working products.
 
 - 🎓 BSc Engineering (Hons) in Computer Engineering, University of Ruhuna (2022–2026)
-- 💼 AI/ML Engineer Intern at SLT-Mobitel (June – November 2025), where I built a [RAG chat assistant](https://github.com/KesharaGunathilaka/SLT_AI_Chatbot) for the SLT website on Llama 3.1 running locally through Ollama
+- 💼 AI/ML Engineer Intern at SLT-Mobitel (June – November 2025), where I built a RAG chat assistant for the SLT website on Llama 3.1 running locally through Ollama
 - 🧠 Working across LLM agents, RAG, computer vision, ML pipelines and full-stack web development
 - 🏆 Global Rank #49 at IEEEXtreme 19.0 and 2nd Runners-Up at AGENTRIX 2026
 - 🔭 Open to AI/ML, data science and full-stack engineering roles
@@ -69,7 +69,7 @@ I am a Computer Engineering fresh graduate from the Faculty of Engineering, Univ
     </td>
     <td width="50%" valign="top">
       <h3>📐 <a href="https://github.com/KesharaGunathilaka/architectural-floor-plan-digitization_ipcv">Floor Plan Digitization</a></h3>
-      <p><b>Computer vision · Team project</b></p>
+      <p><b>Computer vision · Research-based project</b></p>
       <p>YOLOv11 extracts doors, windows, walls and fixtures from scanned floor plans, reaching mAP@50 of 0.838 on CubiCasa5k, and exports them as CAD-compatible DXF and JSON.</p>
       <p><code>YOLO</code> <code>PyTorch</code> <code>OpenCV</code> <code>DXF</code></p>
     </td>
@@ -82,27 +82,27 @@ I am a Computer Engineering fresh graduate from the Faculty of Engineering, Univ
       <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>LightGBM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📨 <a href="https://github.com/KesharaGunathilaka/kafka-order-stream-bigdata">Kafka Order Stream</a></h3>
-      <p><b>Streaming data pipeline</b></p>
-      <p>Avro-serialised order streaming with real-time price aggregation, retries with exponential backoff, and a dead letter queue for messages that cannot succeed.</p>
-      <p><code>Kafka</code> <code>Avro</code> <code>Python</code> <code>Docker</code></p>
+      <h3>🏥 <a href="https://github.com/KesharaGunathilaka/patient-monitoring-pipeline_bigdata">Patient Vitals Monitoring Pipeline</a></h3>
+      <p><b>Big data · Lambda architecture</b></p>
+      <p>Near-real-time patient vitals monitoring: Kafka ingestion, Spark Structured Streaming for windowed aggregates and alerts, and an Airflow and PySpark batch layer that scores patient risk from lab results, served through FastAPI to a Next.js clinician dashboard.</p>
+      <p><code>Kafka</code> <code>Spark</code> <code>Airflow</code> <code>PostgreSQL</code> <code>FastAPI</code></p>
     </td>
   </tr>
 </table>
 
-**More work:** [BookBuddies](https://github.com/KesharaGunathilaka/bookbuddies-cloud-k8s), FastAPI microservices on GKE with Terraform and GitHub Actions, and [Sayido.lk](https://github.com/KesharaGunathilaka/wedding-directory), a multi-vendor wedding planning platform built with Next.js, NestJS and GraphQL.
+**More work:** [BookBuddies](https://github.com/KesharaGunathilaka/bookbuddies-cloud-k8s), FastAPI microservices on GKE with Terraform and GitHub Actions; [Sayido.lk](https://github.com/KesharaGunathilaka/wedding-directory), a multi-vendor wedding planning platform built with Next.js, NestJS and GraphQL; and [Kafka Order Stream](https://github.com/KesharaGunathilaka/kafka-order-stream-bigdata), Avro order streaming with retries and a dead letter queue.
 
 ## 📊 GitHub activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats-dark.svg">
-    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats.svg" alt="GitHub statistics" height="165">
+    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/stats.svg" alt="GitHub statistics">
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs-dark.svg">
-    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs.svg" alt="Most used languages" height="165">
+    <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/profile/top-langs.svg" alt="Most used languages">
   </picture>
 </p>
 
