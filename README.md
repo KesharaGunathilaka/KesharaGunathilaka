@@ -36,8 +36,8 @@ I am a Computer Engineering fresh graduate from the Faculty of Engineering, Univ
 | :-: | :-- | :-- |
 | 🌍 | **Global Rank #49** | IEEEXtreme 19.0, among 19,000+ participants worldwide |
 | 🥉 | **2nd Runners-Up** | AGENTRIX 2026 inter-university competition, with CommuteAI |
-| 🏁 | **Finalist** | Rootcode Tech-Triathlon 2026, with Waypoint |
-| 🏁 | **Finalist** | AI EXPO Codeblast |
+| 🏁 | **Grand Finalist (top 6)** | Rootcode Tech-Triathlon 2026, among 170+ teams, with Waypoint |
+| 🏁 | **Finalist (top 10)** | SLT-MOBITEL CodeBlast Hackathon Challenge 2026, with PerceptAI |
 | 🏅 | **44th in Sri Lanka** | IEEEXtreme 18.0 |
 | 🎯 | **Top 10 of 200+** | ZuuCrew AI Academy, Building Production-Ready Machine Learning Systems |
 
@@ -77,7 +77,7 @@ I am a Computer Engineering fresh graduate from the Faculty of Engineering, Univ
   <tr>
     <td width="50%" valign="top">
       <h3>🚚 <a href="https://github.com/KesharaGunathilaka/AlphaZero_Waypoint">Waypoint</a></h3>
-      <p><b>🏁 Finalist, Rootcode Tech-Triathlon 2026</b> · <a href="https://alpha-zero-waypoint.vercel.app/">Live&nbsp;demo</a></p>
+      <p><b>🏁 Grand Finalist, Rootcode Tech-Triathlon 2026</b> · <a href="https://alpha-zero-waypoint.vercel.app/">Live&nbsp;demo</a></p>
       <p>Delivery planning for three retail brands across two depots: a rule-aware allocation engine, offline-ready loader and driver apps, live dispatch monitoring, and LightGBM demand and lateness models.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>LightGBM</code></p>
     </td>
