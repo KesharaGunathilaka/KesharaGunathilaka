@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280" role="img" aria-labelledby="bt bd">
 <title id="bt">Keshara Gunathilaka</title>
-<desc id="bd">Computer Engineering fresh graduate from the University of Ruhuna. AI/ML Engineer, Data Scientist, Full-Stack Engineer, LLM Agents and RAG, Computer Vision.</desc>
+<desc id="bd">Computer Engineering fresh graduate from the University of Ruhuna. AI and machine learning, data science, LLM agents and RAG, computer vision, full-stack development.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#0f1a38"/><stop offset="1" stop-color="#0a2b36"/></linearGradient>
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -49,7 +49,7 @@
 <text class="sans name" x="62" y="132">Keshara Gunathilaka</text>
 <rect x="64" y="150" width="64" height="4" rx="2" fill="url(#accent)"/>
 <text class="mono prompt" x="64" y="198">&gt;</text>
-<text class="role r1" x="92" y="198">AI/ML Engineer</text><text class="role r2" x="92" y="198">Data Scientist</text><text class="role r3" x="92" y="198">Full-Stack Engineer</text><text class="role r4" x="92" y="198">LLM Agents &amp; RAG</text><text class="role r5" x="92" y="198">Computer Vision</text>
+<text class="role r1" x="92" y="198">AI / Machine Learning</text><text class="role r2" x="92" y="198">Data Science</text><text class="role r3" x="92" y="198">LLM Agents &amp; RAG</text><text class="role r4" x="92" y="198">Computer Vision</text><text class="role r5" x="92" y="198">Full-Stack Development</text>
 <text class="sans caption" x="64" y="236">Computer Engineering Fresh Graduate  ·  University of Ruhuna, Sri Lanka</text>
 </g>
 <rect x=".5" y=".5" width="959" height="279" rx="17.5" fill="none" stroke="#94a3b8" stroke-opacity=".22"/>

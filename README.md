@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/assets/banner.svg" alt="Keshara Gunathilaka · AI/ML Engineer · Data Scientist · Full-Stack Engineer · LLM Agents and RAG · Computer Vision" width="100%">
+  <img src="https://raw.githubusercontent.com/KesharaGunathilaka/KesharaGunathilaka/main/assets/banner.svg" alt="Keshara Gunathilaka · AI and Machine Learning · Data Science · LLM Agents and RAG · Computer Vision · Full-Stack Development" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 👋 About me
 
-I am a Computer Engineering fresh graduate from the Faculty of Engineering, University of Ruhuna, Sri Lanka. My main focus is AI/ML and data science, and I am also a full-stack engineer, so I take LLM agents, RAG systems, computer vision models and machine learning pipelines through to working products.
+I am a Computer Engineering fresh graduate from the Faculty of Engineering, University of Ruhuna, Sri Lanka. My main focus is AI/ML and data science, and I also build full-stack web applications, so I take LLM agents, RAG systems, computer vision models and machine learning pipelines through to working products.
 
 - 🎓 BSc Engineering (Hons) in Computer Engineering, University of Ruhuna (2022–2026)
 - 💼 AI/ML Engineer Intern at SLT-Mobitel (June – November 2025), where I built a RAG chat assistant for the SLT website on Llama 3.1 running locally through Ollama
